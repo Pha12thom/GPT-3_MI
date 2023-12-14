@@ -21,6 +21,6 @@ If you don't have a setup on your computer that allow to run code locally, then 
 
 For more on Artificial Intelligence, checkout this links
 
-- [My Twitter](https://twitter.com/mathiiias123).
+- [My Twitter](https://twitter.com/milugo_g).
 - [New Native](https://newnative.ai)
 - [Nextgrid](https://nextgrid.ai)
